@@ -2,6 +2,19 @@
   "diocese": "leeds",
   "country": "england",
   "schemaVersion": 1,
-  "ordoYear": null,
-  "entries": []
+  "ordoYear": 2025,
+  "entries": [
+    {
+      "id": "leeds-cathedral-dedication",
+      "title": "Dedication of the Cathedral",
+      "dateRule": "July 18 (fixed date; verify precedence annually)",
+      "rank": "feast",
+      "status": "verified",
+      "source": {
+        "title": "Diocese of Leeds Yearbook 2025, Ordo 2024–2025",
+        "year": 2025,
+        "reference": "Ordo printed page 224, Friday 18 July 2025 (PDF page 226)"
+      }
+    }
+  ]
 }
